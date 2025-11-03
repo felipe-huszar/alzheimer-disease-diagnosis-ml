@@ -13,7 +13,7 @@ Train and compare classification models (Logistic Regression, Decision Tree, and
 - Matplotlib, Seaborn
 
 ## 🚀 Execution
-1. Open the notebook directly in **Google Colab**.  
+1. Open the notebook directly in **Google Colab** => https://colab.research.google.com/drive/1tD3cDPOqfYiw95kZj8Pw7niMOW9jb8xr?usp=sharing
 2. Run all cells in order — the code automatically downloads the Kaggle dataset and performs data exploration, preprocessing, and model training.  
 3. Review the generated metrics and visualizations at the end of execution.
 
